@@ -1,0 +1,1 @@
+A simple CRUD (Create, Read, Update, Delete) application built using JavaScript. I created this project to apply what I’ve learned, focusing on key concepts like DOM manipulation, event handling, and local storage. The app allows users to add, edit, and delete items dynamically.
